@@ -32,4 +32,4 @@ View(airports)
 
 airports %>% (faa == "CAE")
 # Which city was flown to with the highest average speed?
-airports %>% (faa =="CAE")
+# Columbia Metropolitan
